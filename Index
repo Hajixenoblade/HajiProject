@@ -14,7 +14,7 @@
 	title="titulo_que_tendrá_el_enlace" href="http://www.misitio.com/fichero.rss"/>
 </head>
 <body style= "">
-<a href= "XML v1.0" target="_blank">RSS</a>
+<a href= "XML v1.0.rss" target="_blank">RSS</a>
 </body>
 </html>
 
