@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version ="2.0">
+	<channel>
+	    <!--Datos del canal-->
+	    <title>HajiProyect</title>
+	    <link>https://github.com/Hajixenoblade/HajiProyect/RSSv1.0</link>
+	    <description>Esta es mi página en Github</description>
+	    <language>es</language>
+	    
+	    <item>
+		<title>Vrutal</title>
+	    	<link>https://www.vrutal.com/noticias/37307-top-20-personajes-de-super-smash-bros-elegidos-por-la-comunidad-de-vrutal</link>
+	    	<description>La comunidad de Vrutal decide sus personajes favoritos del SSBU.</description> 
+	    </item>
+	    
+	    <item>
+		<title>Xenosaga Proyect</title>
+	    	<link>http://xenosagahd.wixsite.com/thezoharproject/espanol</link>
+	    	<description>Apoya a la comunidad de Xenosaga a traer este juego en una version HD Reamstered.</description> 
+	    </item>
+	
+	    <item>
+		<title>El tiempo en Alcalá de Henares</title>
+		<link>https://www.tiempo.es/</link>
+		<description>El tiempo en los próximos 16 días en Alcalá de Henares</description>
+	    </item>
+	</channel>
+</rss>
