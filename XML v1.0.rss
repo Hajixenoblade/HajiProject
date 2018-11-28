@@ -8,12 +8,12 @@
 	    <language>es</language>
 	    <item>
 		<title>El tiempo en Alcalá de Henares</title>
-		<link>www.eltiempo24.es</link>
+		<link>https://www.tiempo.es/</link>
 		<description>Aquí puedes ver el tiempo en los próximos dias</description>
 	    </item>
 	    <item>
 		<title>Xenosaga Project</title>
-	    	<link>thezoharproject | Español.html</link>
+	    	<link>href="thezoharproject | Español.html"</link>
 	    	<description>Apoya a la comunidad de Xenosaga a traer este juego en una version HD Reamstered.</description> 
 	    </item>
 	    <p>y te preguntarás que es Xenosaga, ¿no?. <a href="https://es.wikipedia.org/wiki/Xenosaga" target="_blank">Aquí</a> te dejo un 		    link para que lo descubras. Además, si te interesa el equipo que lo desarrollo, <a haref="https://es.wikipedia.org/wiki/ 		    Monolith_Soft" target="_blank">aquí</a> tienes otro enlace.</p>
