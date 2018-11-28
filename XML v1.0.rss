@@ -6,19 +6,19 @@
 	    <link>https://hajixenoblade.github.io/HajiProject-remastered-/</link>
 	    <description>Esta es mi página en Github</description>
 	    <language>es</language>
-<guide>
+
 	    <item>
 		<title>El tiempo en Alcalá de Henares</title>
 		<link>https://www.tiempo.es/</link>
 		<description>Aquí puedes ver el tiempo en los próximos dias</description>
 	    </item>
-</guide>
-<guide>
+
+
 	    <item>
 		<title>Xenosaga Project</title>
 	    	<link>thezoharproject%20|%20Espa%C3%B1ol.html</link>
 	    	<description>Apoya a la comunidad de Xenosaga a traer este juego en una version HD Reamstered.</description> 
 	    </item>
-</guide>
+
 	 </channel>
 </rss>
