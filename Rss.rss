@@ -9,12 +9,12 @@
 	    <item>
 		<title>El tiempo en Alcalá de Henares</title>
 		<link>https://www.tiempo.es/madrid-alcala_de_henares-es0ma0005.html</link>
+		<description>Descubre que tiempo va hacer esta semana, y preparate :)</description>
 	    </item>
 	    <item>
 		<title>Xenosaga Project</title>
-	    	<link>file://RSS/thezoharproject.html
-	    	</link>
-	    	<description>Apoya a la comunidad de Xenosaga a traer este juego en una version HD Reamstered.</description> 
+	    <link>https://hajixenoblade.github.io/HajiProject/thezoharproject.html</link>
+	    <description>Apoya a la comunidad de Xenosaga a traer este juego en una version HD Remastered.</description> 
 	    </item>
 	</channel>
 </rss>

@@ -22,4 +22,15 @@
 	</author>
 	<summary>Descubre el tiempo que va a hacer en tu ciudad</summary>
 	</entry>
+	<entry>
+		<title>La comunidad de Vrutal vota</title>
+			<id>https://hajixenoblade.github.io/HajiProject/Top20personajes</id>
+		<link rel="alternate" type="text/html" href="https://hajixenoblade.github.io/HajiProject/Top20personajes" />
+	<updated>2018-11-28T19:41:00-08:00</updated>
+	<author>
+		<name>Jaime R.R.</name>
+		<email>jranera@hotmail.com</email>
+	</author>
+	<summary>Los lectores de Vrutal votan para su Top 20 personajes de SSBU</summary>
+	</entry>
 </feed>
