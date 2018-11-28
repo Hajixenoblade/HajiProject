@@ -11,14 +11,14 @@
 	<title>Índice</title>
 
 	<link rel="alternate" type="application/rss+xml"
-	title="HajiProject" href="https://github.com/Hajixenoblade/HajiProject"/>
+	title="HajiProject" href="https://hajixenoblade.github.io/HajiProject/"/>
 </head>
-<body style= "background-image:url(fondo para el html del rss.jpg)">
+<body style= "background-image:url(fondo2.jpg)">
 <h1>Índice</h1>
 <p>Saludos a todos, esta es mi página asignada como index del RSS y del ATOM. Espero que os guste.</p>
 	<table width="50%" align="middle">
 		<tr>
-			<th><a href= "https://github.com/Hajixenoblade/HajiProject/XML%20v1.0.rss" target="_blank"><img 				src="rss.jpeg" alt="rss icon"style="width:80px;height:30px;"></a></th>
+			<th><a href= "https://hajixenoblade.github.io/HajiProject/XML v1.0" target="_blank"><img src="rss.jpeg" alt="rss icon"style="width:80px;height:30px;"></a></th>
 
 			<th><a href= "" target="_blank"><img src="atom.png" alt="atom icon"style="width:30px;height:30px;"></a></th>
 		</tr>
