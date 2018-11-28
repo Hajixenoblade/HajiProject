@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+	<title type="text">Atom</title>
+		<id>https://hajixenoblade.github.io/HajiProject/Atom.xml</id>
+		<link rel="self" type="aplication/atom+xml" href="https://hajixenoblade.github.io/HajiProject/Atom.xml"/>
+		<link rel="alternate" type="text/html" href="https://hajixenoblade.github.io/HajiProject/Atom.xml"/>
+
+	<updated>2018-11-28T19:41:00-08:00</updated>
+
+	<author>
+		<name>Jaime R.R.</name>
+		<email>jranera@hotmail.com</email>
+	</author>
+	<entry>
+		<title>El tiempo en Alcalá de Henares</title>
+			<id>https://www.tiempo.es/madrid-alcala_de_henares-es0ma0005.html</id>
+		<link rel="alternate" type="text/html" href="https://www.tiempo.es/madrid-alcala_de_henares-es0ma0005.html" />
+	<updated>2018-11-28T19:41:00-08:00</updated>
+	<author>
+		<name>Jaime R.R.</name>
+		<email>jranera@hotmail.com</email>
+	</author>
+	<summary>Descubre el tiempo que va a hacer en tu ciudad</summary>
+	</entry>
+</feed>
