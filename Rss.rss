@@ -2,7 +2,7 @@
 <rss version ="2.0">
 	<channel>
 	    <!--Datos del canal-->
-	    <title>HajiProject</title>
+	    <title>RSS</title>
 	    <link>https://hajixenoblade.github.io/HajiProject/Rss.rss</link>
 	    <description>Esta es mi página en Github</description>
 	    <language>es</language>
@@ -12,9 +12,9 @@
 		<description>Descubre que tiempo va hacer esta semana, y preparate :)</description>
 	    </item>
 	    <item>
-		<title>¿¡Xenosaga vuelve!?</title>
-	    <link>https://hajixenoblade.github.io/HajiProject/BandaiNamco.html</link>
-	    <description>Bandai Namco registra la patente de Also Sprach Zarathustra, parte del título del Tercer Xenosaga.</description> 
+		<title>Ley sobre el derecho de autor</title>
+	    <link>https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52016PC0593</link>
+	    <description>El "temido" articulo 13 y toda la propuesta de ley entera.</description> 
 	    </item>
 	</channel>
 </rss>
